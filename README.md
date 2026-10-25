@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Engineer & Creative Mobile Developer
 
-[![Website](https://img.shields.io/badge/Portfolio-yusuftunga1.github.io-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yusuftunga1.github.io)
+[![Website](https://img.shields.io/badge/Portfolio-yusuftunga1.github.io/portfolio--site-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yusuftunga1.github.io/portfolio-site/)
 [![3D Portfolio](https://img.shields.io/badge/3D_Experience-Live_Demo-00d4ff?style=for-the-badge&logo=three.js&logoColor=black)](https://yusuftunga1.github.io/3d-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Tunga-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusuf-tunga-b39a8a385)
 [![Email](https://img.shields.io/badge/Email-yusuftunga01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuftunga01@gmail.com)
@@ -92,8 +92,8 @@
         Scroll-driven cinematic personal website with dynamic video scrub control and zero build step.
       </p>
       <p align="center">
-        <a href="https://github.com/yusuftunga1/yusuftunga1.github.io"><b>💻 Source Code</b></a> · 
-        <a href="https://yusuftunga1.github.io"><b>🌐 Live Website</b></a>
+        <a href="https://github.com/yusuftunga1/portfolio-site"><b>💻 Source Code</b></a> · 
+        <a href="https://yusuftunga1.github.io/portfolio-site/"><b>🌐 Live Website</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -125,6 +125,6 @@
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories, open an issue, or drop a message.*
 
-Crafted with 💚 by **[Yusuf Tunga](https://yusuftunga1.github.io)**
+Crafted with 💚 by **[Yusuf Tunga](https://yusuftunga1.github.io/portfolio-site/)**
 
 </div>
